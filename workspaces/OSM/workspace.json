@@ -1,6 +1,6 @@
 {
   "friendly_name": "Open Source Maps",
-  "image_src": "open-source-maps.png",
+  "image_src": "osm.png",
   "description": "Generate static OSM maps.",
   "name": "geokrety/osm-static-maps",
   "cores": 2,
