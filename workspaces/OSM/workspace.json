@@ -16,6 +16,9 @@
   "image_type": "Container",
   "architecture": [
     "amd64",
-    "arm64"
-  ]
+    "arm64",
+  ],
+  "compatibility": [
+    "1.13.x",
+    "1.14.x"
 }
