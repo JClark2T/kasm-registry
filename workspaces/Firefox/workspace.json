@@ -24,7 +24,7 @@
     "user": 1000
   },
   "exec_config": {},
-    "arm64"
+    "amd64"
   ],
   "compatibility": [
     "1.13.x",
